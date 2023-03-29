@@ -6,7 +6,7 @@
 #
 # Version: v1
 #
-# This script will take backups with dates.
+# This script will take backups with dates & list the disk usage of compressed tar.
 #########################
 
 # Compress the folder with foldername + date and take backup
