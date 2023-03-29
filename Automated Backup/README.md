@@ -7,6 +7,12 @@
 2) Shell script file should have executable permission.
    - chmod +x <filename.sh>
 3) Scheduling Shell Scripts using Crontab Scheduler
+   - crontab -e
+
+   0 12 * * * ./backup.sh 
+  
+   0 12 * * * ./remove-backup.sh
+   
    
  # Syntax:
  
@@ -20,9 +26,3 @@
    0 : Sunday
    1 : Monday etc.
 * Command: Command to be executed
-
-  crontab -e
-
-  0 12 * * * ./backup.sh 
-  
-  0 12 * * * ./remove-backup.sh
