@@ -6,7 +6,7 @@
 #
 # Version: v1
 #
-# This script will take backups with dates & automatically delete backup after certain days
+# This script will take backups with dates.
 #########################
 
 # Compress the folder with foldername + date and take backup
