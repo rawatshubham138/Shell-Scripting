@@ -3,9 +3,9 @@
 # Steps: 
 
 1) Create a folder where backup will be taken. 
-    mkdir backupfolder 
+   - mkdir backupfolder 
 2) Shell script file should have executable permission.
-   chmod +x <filename.sh>
+   - chmod +x <filename.sh>
 3) Scheduling Shell Scripts using Crontab Scheduler
    
  # Syntax:
