@@ -23,6 +23,7 @@
 * Date: Date of the month (1-31)
 * Month: Month of the year (1-12)
 * Day of the Week: It takes value from 0 to 6.
+
    0 : Sunday
    
    1 : Monday etc.
